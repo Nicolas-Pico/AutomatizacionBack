@@ -1,0 +1,12 @@
+
+s
+java:S1104"QMake token a static final constant or non-public and provide accessors if needed.(Ý®¼àùÿÿÿÿ8Ø°ÁÓß1
+M
+java:S1444"+Make this "public static token" field final(Ý®¼àùÿÿÿÿ8Ù°ÁÓß1
+X
+java:S2696)"6Make the enclosing method "static" or remove this set.(¾¥×½øÿÿÿÿ8¶ç§Ôß1
+G	java:S106*"+Replace this use of System.out by a logger.(“»ç²8¶ç§Ôß1
+Y
+java:S1128"<Remove this unused import 'io.restassured.http.ContentType'.(Žïè‘8±¥™Ôß1
+e
+java:S1128"CRemove this unused import 'io.restassured.mapper.ObjectMapperType'.(…©­üÿÿÿÿ8±¥™Ôß1

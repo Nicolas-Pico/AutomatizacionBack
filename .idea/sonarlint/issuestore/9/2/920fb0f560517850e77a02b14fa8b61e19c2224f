@@ -1,0 +1,20 @@
+
+r
+java:S1104"UMake httpToken a static final constant or non-public and provide accessors if needed.(é®ì¢8±‚ÒÙß1
+
+java:S1104"]Make httpCreateBooking a static final constant or non-public and provide accessors if needed.(ìöìêúÿÿÿÿ8±‚ÒÙß1
+|
+java:S1104"ZMake httpGetBooking a static final constant or non-public and provide accessors if needed.(µÌ†ùÿÿÿÿ8±‚ÒÙß1
+L
+java:S1444"/Make this "public static httpToken" field final(é®ì¢8±‚ÒÙß1
+Y
+java:S1444"7Make this "public static httpCreateBooking" field final(ìöìêúÿÿÿÿ8±‚ÒÙß1
+V
+java:S1444"4Make this "public static httpGetBooking" field final(µÌ†ùÿÿÿÿ8±‚ÒÙß1
+X
+java:S2696
+"6Make the enclosing method "static" or remove this set.(Í²»ıÿÿÿÿ8´‚ÒÙß1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(š¯Ø¤øÿÿÿÿ8µ‚ÒÙß1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÀÂéÕûÿÿÿÿ8µ‚ÒÙß1

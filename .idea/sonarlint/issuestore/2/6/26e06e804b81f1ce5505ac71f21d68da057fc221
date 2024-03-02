@@ -1,0 +1,8 @@
+
+y
+java:S1104"]Make responseBookingId a static final constant or non-public and provide accessors if needed.(¼İİ!8õ·Øß1
+S
+java:S1444"7Make this "public static responseBookingId" field final(¼İİ!8‘õ·Øß1
+S
+java:S2696:"6Make the enclosing method "static" or remove this set.(çøüÓ8 õ·Øß1
+G	java:S106;"+Replace this use of System.out by a logger.(í¡Î­8ì§¹Øß1
